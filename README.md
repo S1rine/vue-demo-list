@@ -14,6 +14,7 @@
   - [7.vue-shizhan-list](#7vue-shizhan-list)
   - [8.vue-shop](#8vue-shop)
   - [9.webpack](#9webpack)
+  - [10.vue-dispatch](#10vue-dispatch)
 
 ## 1.meet-webpack
 
@@ -50,3 +51,7 @@
 ## 9.webpack
 
 不知道在哪看的 `webpack` 学习，随手~~写~~**抄**的一些代码。
+
+## 10.vue-dispatch
+
+一个关于派发器的小 `demo`，详细内容请见 [README.md](/vue-dispatch/README.md)。
